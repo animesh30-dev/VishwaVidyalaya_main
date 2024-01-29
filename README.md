@@ -27,6 +27,3 @@ I will be adding some more codes in this repo and building this project for grea
 
 
 ## Thank you for visiting 
-
-<br />
-a
